@@ -13,10 +13,19 @@ public class Student {
     //friday
     private String sID;
     private String sName;
+    private String address;
 
     public Student(String sID, String sName) {
         this.sID = sID;
         this.sName = sName;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
     }
 
     public String getsID() {
