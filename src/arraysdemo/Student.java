@@ -10,7 +10,6 @@ package arraysdemo;
  */
 public class Student {
     //commnet added at 1:21pm
-    //comment added at 1:27
     private String sID;
     private String sName;
 
