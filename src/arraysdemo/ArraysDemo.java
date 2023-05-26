@@ -10,6 +10,7 @@ package arraysdemo;
  */
 import java.util.Scanner;
 public class ArraysDemo {
+    //added comment for pull
 
     /**
      * @param args the command line arguments
